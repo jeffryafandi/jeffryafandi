@@ -13,9 +13,10 @@ A 15 y.o. Back-End developer who like create Websites and bot.
 
 # Recent Activities
 
-<!--START_SECTION:activity-->
--
-<!--END_SECTION:activity-->
+
+
+
+
 
 ## My GitHub Statistics
 
