@@ -11,7 +11,7 @@ A 15 y.o. Back-End developer who like create Websites and bot.
 - **Problem Solving 🎆**
 - **Learn new Programming Language**
 
-# Recent Activities
+
 
 
 
