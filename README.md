@@ -29,4 +29,4 @@ A 15 y.o. Back-End developer who like create Websites and bot.
 ## Social Media
 
 ![Discord](https://discord.c99.nl/widget/theme-3/824772882453364806.png)
-- [Telegram](https://t.me/jeffryafandi)
+
