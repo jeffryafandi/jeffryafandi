@@ -10,7 +10,9 @@ A 15 y.o. Back-End developer who like create Websites and bot.
 - **Coding 💻**
 - **Problem Solving 🎆**
 - **Learn new Programming Language**
-
+- **Reading Novels**
+- **Reading Manga**
+- **Watching Anime**
 
 
 
