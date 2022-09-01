@@ -3,12 +3,12 @@
 
 Interested in the way the bot works. And, scraping.
 
-A 15 y.o. Back-End developer who like create Websites and bot.
+A 16 y.o. Back-End developer who like create Bots.
 
 # 👍 Hobby
 
 - **Coding 💻**
-- **Problem Solving 🎆**
+- **Problem Solving? 🎆**
 - **Learn new Language**
 - **Reading Novels**
 - **Reading Manga**
