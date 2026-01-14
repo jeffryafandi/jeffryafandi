@@ -10,11 +10,11 @@ When I'm not burried in code, you can find me relaxing with a good novel, manga,
 
 ## My GitHub Statistics
 
-[![tropghy](https://github-profile-trophy.vercel.app/?username=jeffryafandi&theme=dracula)](https://github.com/jeffryafandi)
+[![tropghy](https://jeffryafandi-readme-stats.vercel.app/api?username=jeffryafandi\&rank_icon=github&theme=dark&layout=compact)](https://github.com/jeffryafandi)
 
 [![wakatime](https://wakatime.com/badge/user/df3a8f28-fdf0-4d20-a3bc-2ecf23233e74.svg?style=default)](https://wakatime.com/@df3a8f28-fdf0-4d20-a3bc-2ecf23233e74)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffryafandi&layout=compact&theme=dark)](https://wakatime.com/@jeffryafandi)
+[![wakatime stats](https://jeffryafandi-readme-stats.vercel.app/api/wakatime?username=jeffryafandi&layout=compact&theme=dark)](https://wakatime.com/@jeffryafandi)
 
 ## Social Media
 
