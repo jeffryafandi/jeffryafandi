@@ -10,7 +10,8 @@ When I'm not burried in code, you can find me relaxing with a good novel, manga,
 
 ## My GitHub Statistics
 
-[![tropghy](https://jeffryafandi-readme-stats.vercel.app/api?username=jeffryafandi\&rank_icon=github&theme=dark&layout=compact)](https://github.com/jeffryafandi)
+[![GitHub Streak](https://jeffryafandi-readme-stats.vercel.app/api?username=jeffryafandi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/jeffryafandi)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jeffryafandi&theme=monokai-metallian&hide_border=true&short_numbers=true)](https://github.com/jeffryafandi)
 
 [![wakatime](https://wakatime.com/badge/user/df3a8f28-fdf0-4d20-a3bc-2ecf23233e74.svg?style=default)](https://wakatime.com/@df3a8f28-fdf0-4d20-a3bc-2ecf23233e74)
 
